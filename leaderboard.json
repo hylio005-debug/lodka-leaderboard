@@ -1,4 +1,37 @@
 {
-  "updated": "2026-10-16T00:00:00Z",
-  "leaders": []
+    "updated": "2026-10-16T19:38:49+03:00",
+    "leaders": [
+        {
+            "klass": "—",
+            "nick": "123",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "passedCount": 1,
+            "avg": 100
+        }
+    ],
+    "players": [
+        {
+            "key": "—|123|PC",
+            "klass": "—",
+            "nick": "123",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "updated": "2026-10-16T19:38:49+03:00"
+        }
+    ]
 }
