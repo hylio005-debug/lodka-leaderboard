@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-16T19:53:59+03:00",
+    "updated": "2026-10-16T19:55:40+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -7,14 +7,14 @@
             "device": "PC",
             "levels": [
                 100,
-                0,
+                92,
                 0,
                 0,
                 0
             ],
-            "progress": 2,
-            "passedCount": 1,
-            "avg": 20
+            "progress": 3,
+            "passedCount": 2,
+            "avg": 38.4
         }
     ],
     "players": [
@@ -25,13 +25,13 @@
             "device": "PC",
             "levels": [
                 100,
-                0,
+                92,
                 0,
                 0,
                 0
             ],
-            "progress": 2,
-            "updated": "2026-10-16T19:53:59+03:00"
+            "progress": 3,
+            "updated": "2026-10-16T19:55:40+03:00"
         }
     ]
 }
