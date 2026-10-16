@@ -1,6 +1,21 @@
 {
-    "updated": "2026-10-16T19:56:39+03:00",
+    "updated": "2026-10-16T20:13:53+03:00",
     "leaders": [
+        {
+            "klass": "—",
+            "nick": "234",
+            "device": "PC",
+            "levels": [
+                100,
+                100,
+                0,
+                0,
+                0
+            ],
+            "progress": 3,
+            "passedCount": 2,
+            "avg": 40
+        },
         {
             "klass": "—",
             "nick": "123",
@@ -15,21 +30,6 @@
             "progress": 3,
             "passedCount": 2,
             "avg": 38.4
-        },
-        {
-            "klass": "—",
-            "nick": "234",
-            "device": "PC",
-            "levels": [
-                100,
-                0,
-                0,
-                0,
-                0
-            ],
-            "progress": 2,
-            "passedCount": 1,
-            "avg": 20
         }
     ],
     "players": [
@@ -55,13 +55,13 @@
             "device": "PC",
             "levels": [
                 100,
-                0,
+                100,
                 0,
                 0,
                 0
             ],
-            "progress": 2,
-            "updated": "2026-10-16T19:56:39+03:00"
+            "progress": 3,
+            "updated": "2026-10-16T20:13:53+03:00"
         }
     ]
 }
