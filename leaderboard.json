@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-18T16:38:33+03:00",
+    "updated": "2026-10-18T16:39:35+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -48,6 +48,21 @@
         },
         {
             "klass": "—",
+            "nick": "44",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "passedCount": 1,
+            "avg": 20
+        },
+        {
+            "klass": "—",
             "nick": "12222",
             "device": "PC",
             "levels": [
@@ -75,21 +90,6 @@
             "progress": 1,
             "passedCount": 1,
             "avg": 10
-        },
-        {
-            "klass": "—",
-            "nick": "44",
-            "device": "PC",
-            "levels": [
-                40,
-                0,
-                0,
-                0,
-                0
-            ],
-            "progress": 1,
-            "passedCount": 1,
-            "avg": 8
         },
         {
             "klass": "—",
@@ -219,14 +219,14 @@
             "nick": "44",
             "device": "PC",
             "levels": [
-                40,
+                100,
                 0,
                 0,
                 0,
                 0
             ],
-            "progress": 1,
-            "updated": "2026-10-18T16:38:33+03:00"
+            "progress": 2,
+            "updated": "2026-10-18T16:39:35+03:00"
         }
     ]
 }
