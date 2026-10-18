@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-18T16:32:57+03:00",
+    "updated": "2026-10-18T16:34:08+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -75,6 +75,21 @@
             "progress": 1,
             "passedCount": 1,
             "avg": 10
+        },
+        {
+            "klass": "—",
+            "nick": "333",
+            "device": "PC",
+            "levels": [
+                20,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "passedCount": 1,
+            "avg": 4
         }
     ],
     "players": [
@@ -167,6 +182,21 @@
             ],
             "progress": 1,
             "updated": "2026-10-18T15:51:17+03:00"
+        },
+        {
+            "key": "—|333|PC",
+            "klass": "—",
+            "nick": "333",
+            "device": "PC",
+            "levels": [
+                20,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "updated": "2026-10-18T16:34:08+03:00"
         }
     ]
 }
