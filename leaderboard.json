@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-18T16:39:35+03:00",
+    "updated": "2026-10-18T16:49:39+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -90,6 +90,21 @@
             "progress": 1,
             "passedCount": 1,
             "avg": 10
+        },
+        {
+            "klass": "—",
+            "nick": "44444",
+            "device": "PC",
+            "levels": [
+                30,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "passedCount": 1,
+            "avg": 6
         },
         {
             "klass": "—",
@@ -227,6 +242,21 @@
             ],
             "progress": 2,
             "updated": "2026-10-18T16:39:35+03:00"
+        },
+        {
+            "key": "—|44444|PC",
+            "klass": "—",
+            "nick": "44444",
+            "device": "PC",
+            "levels": [
+                30,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "updated": "2026-10-18T16:49:39+03:00"
         }
     ]
 }
