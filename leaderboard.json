@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T07:12:42+03:00",
+    "updated": "2026-10-19T07:12:45+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -47,6 +47,21 @@
             "avg": 57.4
         },
         {
+            "klass": "4А",
+            "nick": "Шуби.В",
+            "device": "PC",
+            "levels": [
+                100,
+                88,
+                90,
+                0,
+                0
+            ],
+            "progress": 4,
+            "passedCount": 3,
+            "avg": 55.6
+        },
+        {
             "klass": "3Б",
             "nick": "Зари.К",
             "device": "PC",
@@ -60,21 +75,6 @@
             "progress": 4,
             "passedCount": 3,
             "avg": 54.8
-        },
-        {
-            "klass": "4А",
-            "nick": "Шуби.В",
-            "device": "PC",
-            "levels": [
-                91,
-                88,
-                90,
-                0,
-                0
-            ],
-            "progress": 4,
-            "passedCount": 3,
-            "avg": 53.8
         },
         {
             "klass": "—",
@@ -549,14 +549,14 @@
             "nick": "Шуби.В",
             "device": "PC",
             "levels": [
-                91,
+                100,
                 88,
                 90,
                 0,
                 0
             ],
             "progress": 4,
-            "updated": "2026-10-19T07:02:00+03:00"
+            "updated": "2026-10-19T07:12:45+03:00"
         },
         {
             "key": "4Б|Абди.С|PC",
