@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T09:28:06+03:00",
+    "updated": "2026-10-19T09:28:09+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -30,6 +30,21 @@
             "progress": 5,
             "passedCount": 5,
             "avg": 93.6
+        },
+        {
+            "klass": "7Б",
+            "nick": "Сине.А",
+            "device": "PC",
+            "levels": [
+                100,
+                80,
+                100,
+                96,
+                90
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 93.2
         },
         {
             "klass": "4А",
@@ -90,21 +105,6 @@
             "progress": 5,
             "passedCount": 5,
             "avg": 87.6
-        },
-        {
-            "klass": "7Б",
-            "nick": "Сине.А",
-            "device": "PC",
-            "levels": [
-                100,
-                80,
-                100,
-                96,
-                60
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 87.2
         },
         {
             "klass": "7Б",
@@ -1273,10 +1273,10 @@
                 80,
                 100,
                 96,
-                60
+                90
             ],
             "progress": 5,
-            "updated": "2026-10-19T09:27:37+03:00"
+            "updated": "2026-10-19T09:28:09+03:00"
         },
         {
             "key": "7Б|Заха.А|Mobile",
