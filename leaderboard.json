@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T06:22:15+03:00",
+    "updated": "2026-10-19T06:23:32+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -15,6 +15,21 @@
             "progress": 5,
             "passedCount": 5,
             "avg": 94.8
+        },
+        {
+            "klass": "3Б",
+            "nick": "Лысо.Д",
+            "device": "PC",
+            "levels": [
+                100,
+                100,
+                87,
+                0,
+                0
+            ],
+            "progress": 4,
+            "passedCount": 3,
+            "avg": 57.4
         },
         {
             "klass": "—",
@@ -64,21 +79,6 @@
         {
             "klass": "—",
             "nick": "234",
-            "device": "PC",
-            "levels": [
-                100,
-                100,
-                0,
-                0,
-                0
-            ],
-            "progress": 3,
-            "passedCount": 2,
-            "avg": 40
-        },
-        {
-            "klass": "3Б",
-            "nick": "Лысо.Д",
             "device": "PC",
             "levels": [
                 100,
@@ -446,12 +446,12 @@
             "levels": [
                 100,
                 100,
-                0,
+                87,
                 0,
                 0
             ],
-            "progress": 3,
-            "updated": "2026-10-19T06:18:23+03:00"
+            "progress": 4,
+            "updated": "2026-10-19T06:23:32+03:00"
         },
         {
             "key": "3Б|Коло.Т|Mobile",
