@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T06:07:02+03:00",
+    "updated": "2026-10-19T06:08:00+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -60,6 +60,21 @@
             "progress": 3,
             "passedCount": 2,
             "avg": 36.4
+        },
+        {
+            "klass": "3Б",
+            "nick": "Алек.А",
+            "device": "PC",
+            "levels": [
+                80,
+                30,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "passedCount": 2,
+            "avg": 22
         },
         {
             "klass": "—",
@@ -135,21 +150,6 @@
             "progress": 2,
             "passedCount": 1,
             "avg": 20
-        },
-        {
-            "klass": "3Б",
-            "nick": "Алек.Д",
-            "device": "PC",
-            "levels": [
-                97,
-                0,
-                0,
-                0,
-                0
-            ],
-            "progress": 2,
-            "passedCount": 1,
-            "avg": 19.4
         }
     ],
     "players": [
@@ -400,13 +400,13 @@
             "device": "PC",
             "levels": [
                 80,
-                0,
+                30,
                 0,
                 0,
                 0
             ],
             "progress": 2,
-            "updated": "2026-10-19T06:04:27+03:00"
+            "updated": "2026-10-19T06:08:00+03:00"
         },
         {
             "key": "3Б|Сусо.М|PC",
