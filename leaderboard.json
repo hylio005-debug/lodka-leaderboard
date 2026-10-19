@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T06:02:47+03:00",
+    "updated": "2026-10-19T06:03:00+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -122,6 +122,21 @@
             "avg": 15.8
         },
         {
+            "klass": "3Б",
+            "nick": "Алек.А",
+            "device": "PC",
+            "levels": [
+                62,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "passedCount": 1,
+            "avg": 12.4
+        },
+        {
             "klass": "—",
             "nick": "12222",
             "device": "PC",
@@ -135,21 +150,6 @@
             "progress": 1,
             "passedCount": 1,
             "avg": 12
-        },
-        {
-            "klass": "—",
-            "nick": "12",
-            "device": "PC",
-            "levels": [
-                50,
-                0,
-                0,
-                0,
-                0
-            ],
-            "progress": 1,
-            "passedCount": 1,
-            "avg": 10
         }
     ],
     "players": [
@@ -392,6 +392,21 @@
             ],
             "progress": 1,
             "updated": "2026-10-19T06:02:47+03:00"
+        },
+        {
+            "key": "3Б|Алек.А|PC",
+            "klass": "3Б",
+            "nick": "Алек.А",
+            "device": "PC",
+            "levels": [
+                62,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "updated": "2026-10-19T06:03:00+03:00"
         }
     ]
 }
