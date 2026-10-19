@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T09:24:21+03:00",
+    "updated": "2026-10-19T09:24:31+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -108,6 +108,21 @@
         },
         {
             "klass": "7Б",
+            "nick": "Сине.А",
+            "device": "PC",
+            "levels": [
+                100,
+                80,
+                100,
+                23,
+                0
+            ],
+            "progress": 4,
+            "passedCount": 4,
+            "avg": 60.6
+        },
+        {
+            "klass": "7Б",
             "nick": "Близ.Д",
             "device": "PC",
             "levels": [
@@ -135,21 +150,6 @@
             "progress": 3,
             "passedCount": 4,
             "avg": 59.2
-        },
-        {
-            "klass": "3Б",
-            "nick": "Лысо.Д",
-            "device": "PC",
-            "levels": [
-                100,
-                100,
-                87,
-                0,
-                0
-            ],
-            "progress": 4,
-            "passedCount": 3,
-            "avg": 57.4
         }
     ],
     "players": [
@@ -1272,11 +1272,11 @@
                 100,
                 80,
                 100,
-                0,
+                23,
                 0
             ],
             "progress": 4,
-            "updated": "2026-10-19T09:22:25+03:00"
+            "updated": "2026-10-19T09:24:31+03:00"
         },
         {
             "key": "7Б|Заха.А|Mobile",
