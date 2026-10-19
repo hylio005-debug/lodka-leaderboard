@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T09:50:03+03:00",
+    "updated": "2026-10-19T18:27:47+03:00",
     "leaders": [
         {
             "klass": "7Б",
@@ -14,7 +14,8 @@
             ],
             "progress": 5,
             "passedCount": 5,
-            "avg": 97.4
+            "avg": 97,
+            "score": 97.4
         },
         {
             "klass": "7Б",
@@ -29,7 +30,8 @@
             ],
             "progress": 5,
             "passedCount": 5,
-            "avg": 96.2
+            "avg": 96,
+            "score": 96.2
         },
         {
             "klass": "7Б",
@@ -44,7 +46,8 @@
             ],
             "progress": 5,
             "passedCount": 5,
-            "avg": 95.8
+            "avg": 96,
+            "score": 95.8
         },
         {
             "klass": "—",
@@ -59,7 +62,8 @@
             ],
             "progress": 5,
             "passedCount": 5,
-            "avg": 94.8
+            "avg": 95,
+            "score": 94.8
         },
         {
             "klass": "4Б",
@@ -74,7 +78,8 @@
             ],
             "progress": 5,
             "passedCount": 5,
-            "avg": 93.6
+            "avg": 94,
+            "score": 93.6
         },
         {
             "klass": "7Б",
@@ -89,7 +94,8 @@
             ],
             "progress": 5,
             "passedCount": 5,
-            "avg": 93.2
+            "avg": 93,
+            "score": 93.2
         },
         {
             "klass": "4А",
@@ -104,7 +110,8 @@
             ],
             "progress": 5,
             "passedCount": 5,
-            "avg": 90.6
+            "avg": 91,
+            "score": 90.6
         },
         {
             "klass": "7Б",
@@ -119,7 +126,8 @@
             ],
             "progress": 5,
             "passedCount": 5,
-            "avg": 88.8
+            "avg": 89,
+            "score": 88.8
         },
         {
             "klass": "4А",
@@ -134,7 +142,8 @@
             ],
             "progress": 5,
             "passedCount": 5,
-            "avg": 88.4
+            "avg": 88,
+            "score": 88.4
         },
         {
             "klass": "4А",
@@ -149,7 +158,8 @@
             ],
             "progress": 5,
             "passedCount": 5,
-            "avg": 88.2
+            "avg": 88,
+            "score": 88.2
         }
     ],
     "players": [
@@ -1487,6 +1497,27 @@
             ],
             "progress": 5,
             "updated": "2026-10-19T09:49:14+03:00"
+        },
+        {
+            "key": "—|334455|PC",
+            "klass": "—",
+            "nick": "334455",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-19T18:27:47+03:00"
         }
     ]
 }
