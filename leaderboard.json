@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T18:34:35+03:00",
+    "updated": "2026-10-19T18:52:41+03:00",
     "leaders": [
         {
             "klass": "7Б",
@@ -176,7 +176,13 @@
                 90
             ],
             "progress": 5,
-            "updated": "2026-10-18T19:27:10+03:00"
+            "updated": "2026-10-19T18:52:41+03:00",
+            "inventory": {
+                "map": false,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": true
+            }
         },
         {
             "key": "—|234|PC",
