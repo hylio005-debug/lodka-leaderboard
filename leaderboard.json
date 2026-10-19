@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T06:53:56+03:00",
+    "updated": "2026-10-19T06:54:04+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -45,6 +45,21 @@
             "progress": 4,
             "passedCount": 3,
             "avg": 54.8
+        },
+        {
+            "klass": "4Б",
+            "nick": "Сенн.К",
+            "device": "PC",
+            "levels": [
+                89,
+                91,
+                88,
+                0,
+                0
+            ],
+            "progress": 4,
+            "passedCount": 3,
+            "avg": 53.6
         },
         {
             "klass": "—",
@@ -135,21 +150,6 @@
             "progress": 3,
             "passedCount": 2,
             "avg": 39
-        },
-        {
-            "klass": "—",
-            "nick": "44444",
-            "device": "PC",
-            "levels": [
-                90,
-                92,
-                0,
-                0,
-                0
-            ],
-            "progress": 3,
-            "passedCount": 2,
-            "avg": 36.4
         }
     ],
     "players": [
@@ -596,12 +596,12 @@
             "levels": [
                 89,
                 91,
-                0,
+                88,
                 0,
                 0
             ],
-            "progress": 3,
-            "updated": "2026-10-19T06:52:29+03:00"
+            "progress": 4,
+            "updated": "2026-10-19T06:54:04+03:00"
         },
         {
             "key": "4Б|Сави.А|PC",
