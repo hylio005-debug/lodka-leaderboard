@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T06:11:41+03:00",
+    "updated": "2026-10-19T06:13:21+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -45,6 +45,21 @@
             "progress": 3,
             "passedCount": 2,
             "avg": 40
+        },
+        {
+            "klass": "3Б",
+            "nick": "Медв.П",
+            "device": "PC",
+            "levels": [
+                39,
+                81,
+                79,
+                0,
+                0
+            ],
+            "progress": 3,
+            "passedCount": 3,
+            "avg": 39.8
         },
         {
             "klass": "—",
@@ -120,21 +135,6 @@
             "progress": 2,
             "passedCount": 2,
             "avg": 27
-        },
-        {
-            "klass": "3Б",
-            "nick": "Медв.П",
-            "device": "PC",
-            "levels": [
-                39,
-                81,
-                0,
-                0,
-                0
-            ],
-            "progress": 3,
-            "passedCount": 2,
-            "avg": 24
         },
         {
             "klass": "3Б",
@@ -341,12 +341,12 @@
             "levels": [
                 39,
                 81,
-                0,
+                79,
                 0,
                 0
             ],
             "progress": 3,
-            "updated": "2026-10-19T06:11:41+03:00"
+            "updated": "2026-10-19T06:13:21+03:00"
         },
         {
             "key": "3Б|Бояр.В|PC",
