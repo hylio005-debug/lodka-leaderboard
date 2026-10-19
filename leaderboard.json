@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T09:48:36+03:00",
+    "updated": "2026-10-19T09:49:14+03:00",
     "leaders": [
         {
             "klass": "7Б",
@@ -30,6 +30,21 @@
             "progress": 5,
             "passedCount": 5,
             "avg": 96.2
+        },
+        {
+            "klass": "7Б",
+            "nick": "Кара.П",
+            "device": "PC",
+            "levels": [
+                100,
+                100,
+                91,
+                98,
+                90
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 95.8
         },
         {
             "klass": "—",
@@ -75,21 +90,6 @@
             "progress": 5,
             "passedCount": 5,
             "avg": 93.2
-        },
-        {
-            "klass": "7Б",
-            "nick": "Кара.П",
-            "device": "PC",
-            "levels": [
-                100,
-                100,
-                91,
-                98,
-                70
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 91.8
         },
         {
             "klass": "4А",
@@ -1483,10 +1483,10 @@
                 100,
                 91,
                 98,
-                70
+                90
             ],
             "progress": 5,
-            "updated": "2026-10-19T09:48:36+03:00"
+            "updated": "2026-10-19T09:49:14+03:00"
         }
     ]
 }
