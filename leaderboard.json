@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T07:15:18+03:00",
+    "updated": "2026-10-19T07:15:22+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -45,21 +45,6 @@
             "progress": 4,
             "passedCount": 3,
             "avg": 57.4
-        },
-        {
-            "klass": "4А",
-            "nick": "Шуби.В",
-            "device": "PC",
-            "levels": [
-                100,
-                88,
-                90,
-                0,
-                0
-            ],
-            "progress": 4,
-            "passedCount": 3,
-            "avg": 55.6
         },
         {
             "klass": "3Б",
@@ -150,6 +135,21 @@
             "progress": 4,
             "passedCount": 3,
             "avg": 49.6
+        },
+        {
+            "klass": "3Б",
+            "nick": "Медв.П",
+            "device": "PC",
+            "levels": [
+                65,
+                81,
+                80,
+                0,
+                0
+            ],
+            "progress": 4,
+            "passedCount": 3,
+            "avg": 45.2
         }
     ],
     "players": [
@@ -550,13 +550,13 @@
             "device": "PC",
             "levels": [
                 100,
-                88,
+                32,
                 90,
                 0,
                 0
             ],
             "progress": 4,
-            "updated": "2026-10-19T07:12:45+03:00"
+            "updated": "2026-10-19T07:15:22+03:00"
         },
         {
             "key": "4Б|Абди.С|PC",
