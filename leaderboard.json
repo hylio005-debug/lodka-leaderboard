@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T08:08:44+03:00",
+    "updated": "2026-10-19T08:09:26+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -93,6 +93,21 @@
         },
         {
             "klass": "4А",
+            "nick": "Хайр.У",
+            "device": "Mobile",
+            "levels": [
+                100,
+                80,
+                82,
+                39,
+                0
+            ],
+            "progress": 4,
+            "passedCount": 4,
+            "avg": 60.2
+        },
+        {
+            "klass": "4А",
             "nick": "Хвор.Е",
             "device": "PC",
             "levels": [
@@ -135,21 +150,6 @@
             "progress": 4,
             "passedCount": 3,
             "avg": 54.8
-        },
-        {
-            "klass": "—",
-            "nick": "Анена",
-            "device": "Mobile",
-            "levels": [
-                100,
-                100,
-                66,
-                0,
-                0
-            ],
-            "progress": 3,
-            "passedCount": 3,
-            "avg": 53.2
         }
     ],
     "players": [
@@ -957,11 +957,11 @@
                 100,
                 80,
                 82,
-                0,
+                39,
                 0
             ],
             "progress": 4,
-            "updated": "2026-10-19T08:06:48+03:00"
+            "updated": "2026-10-19T08:09:26+03:00"
         },
         {
             "key": "4А|Серг.С|Mobile",
