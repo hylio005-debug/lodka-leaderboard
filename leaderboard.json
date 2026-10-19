@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T07:04:01+03:00",
+    "updated": "2026-10-19T07:04:15+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -45,6 +45,21 @@
             "progress": 4,
             "passedCount": 3,
             "avg": 57.4
+        },
+        {
+            "klass": "4Б",
+            "nick": "Сави.А",
+            "device": "PC",
+            "levels": [
+                76,
+                81,
+                88,
+                35,
+                0
+            ],
+            "progress": 4,
+            "passedCount": 4,
+            "avg": 56
         },
         {
             "klass": "3Б",
@@ -120,21 +135,6 @@
             "progress": 4,
             "passedCount": 3,
             "avg": 49.6
-        },
-        {
-            "klass": "4Б",
-            "nick": "Сави.А",
-            "device": "PC",
-            "levels": [
-                76,
-                81,
-                88,
-                0,
-                0
-            ],
-            "progress": 4,
-            "passedCount": 3,
-            "avg": 49
         },
         {
             "klass": "3Б",
@@ -612,11 +612,11 @@
                 76,
                 81,
                 88,
-                0,
+                35,
                 0
             ],
             "progress": 4,
-            "updated": "2026-10-19T07:02:09+03:00"
+            "updated": "2026-10-19T07:04:15+03:00"
         },
         {
             "key": "4Б|Кахо.М|PC",
