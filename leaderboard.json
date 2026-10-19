@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T06:03:53+03:00",
+    "updated": "2026-10-19T06:04:07+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -107,6 +107,21 @@
             "avg": 19.4
         },
         {
+            "klass": "3Б",
+            "nick": "Близ.М",
+            "device": "PC",
+            "levels": [
+                87,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "passedCount": 1,
+            "avg": 17.4
+        },
+        {
             "klass": "7А",
             "nick": "Абди.И",
             "device": "Mobile",
@@ -135,21 +150,6 @@
             "progress": 1,
             "passedCount": 1,
             "avg": 14.6
-        },
-        {
-            "klass": "3Б",
-            "nick": "Бояр.В",
-            "device": "PC",
-            "levels": [
-                70,
-                0,
-                0,
-                0,
-                0
-            ],
-            "progress": 1,
-            "passedCount": 1,
-            "avg": 14
         }
     ],
     "players": [
@@ -369,14 +369,14 @@
             "nick": "Близ.М",
             "device": "PC",
             "levels": [
-                28,
+                87,
                 0,
                 0,
                 0,
                 0
             ],
-            "progress": 1,
-            "updated": "2026-10-19T06:02:25+03:00"
+            "progress": 2,
+            "updated": "2026-10-19T06:04:07+03:00"
         },
         {
             "key": "3Б|Каза.П|PC",
