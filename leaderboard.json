@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T08:09:26+03:00",
+    "updated": "2026-10-19T08:10:21+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -77,6 +77,21 @@
             "avg": 87.6
         },
         {
+            "klass": "4А",
+            "nick": "Хайр.У",
+            "device": "Mobile",
+            "levels": [
+                100,
+                80,
+                82,
+                90,
+                0
+            ],
+            "progress": 5,
+            "passedCount": 4,
+            "avg": 70.4
+        },
+        {
             "klass": "4Б",
             "nick": "Курт.Я",
             "device": "PC",
@@ -90,21 +105,6 @@
             "progress": 4,
             "passedCount": 4,
             "avg": 60.8
-        },
-        {
-            "klass": "4А",
-            "nick": "Хайр.У",
-            "device": "Mobile",
-            "levels": [
-                100,
-                80,
-                82,
-                39,
-                0
-            ],
-            "progress": 4,
-            "passedCount": 4,
-            "avg": 60.2
         },
         {
             "klass": "4А",
@@ -957,11 +957,11 @@
                 100,
                 80,
                 82,
-                39,
+                90,
                 0
             ],
-            "progress": 4,
-            "updated": "2026-10-19T08:09:26+03:00"
+            "progress": 5,
+            "updated": "2026-10-19T08:10:21+03:00"
         },
         {
             "key": "4А|Серг.С|Mobile",
