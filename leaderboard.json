@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-18T19:33:21+03:00",
+    "updated": "2026-10-19T04:30:18+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -90,6 +90,21 @@
             "progress": 2,
             "passedCount": 1,
             "avg": 20
+        },
+        {
+            "klass": "7А",
+            "nick": "Абди.И",
+            "device": "Mobile",
+            "levels": [
+                79,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "passedCount": 1,
+            "avg": 15.8
         },
         {
             "klass": "—",
@@ -287,6 +302,21 @@
             ],
             "progress": 3,
             "updated": "2026-10-18T19:33:21+03:00"
+        },
+        {
+            "key": "7А|Абди.И|Mobile",
+            "klass": "7А",
+            "nick": "Абди.И",
+            "device": "Mobile",
+            "levels": [
+                79,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "updated": "2026-10-19T04:30:18+03:00"
         }
     ]
 }
