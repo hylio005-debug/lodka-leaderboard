@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T07:15:22+03:00",
+    "updated": "2026-10-19T07:15:33+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -30,6 +30,21 @@
             "progress": 5,
             "passedCount": 5,
             "avg": 93.6
+        },
+        {
+            "klass": "4Б",
+            "nick": "Курт.Я",
+            "device": "PC",
+            "levels": [
+                80,
+                85,
+                88,
+                51,
+                0
+            ],
+            "progress": 4,
+            "passedCount": 4,
+            "avg": 60.8
         },
         {
             "klass": "3Б",
@@ -105,21 +120,6 @@
             "progress": 4,
             "passedCount": 3,
             "avg": 51.4
-        },
-        {
-            "klass": "4Б",
-            "nick": "Курт.Я",
-            "device": "PC",
-            "levels": [
-                80,
-                85,
-                88,
-                0,
-                0
-            ],
-            "progress": 4,
-            "passedCount": 3,
-            "avg": 50.6
         },
         {
             "klass": "3Б",
@@ -582,11 +582,11 @@
                 80,
                 85,
                 88,
-                0,
+                51,
                 0
             ],
             "progress": 4,
-            "updated": "2026-10-19T07:12:42+03:00"
+            "updated": "2026-10-19T07:15:33+03:00"
         },
         {
             "key": "4Б|Сенн.К|PC",
