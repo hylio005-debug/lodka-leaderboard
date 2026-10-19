@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T06:06:41+03:00",
+    "updated": "2026-10-19T06:06:44+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -108,6 +108,21 @@
         },
         {
             "klass": "3Б",
+            "nick": "Лысо.Д",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "passedCount": 1,
+            "avg": 20
+        },
+        {
+            "klass": "3Б",
             "nick": "Алек.Д",
             "device": "PC",
             "levels": [
@@ -135,21 +150,6 @@
             "progress": 2,
             "passedCount": 1,
             "avg": 17.4
-        },
-        {
-            "klass": "3Б",
-            "nick": "Сусо.М",
-            "device": "PC",
-            "levels": [
-                85,
-                0,
-                0,
-                0,
-                0
-            ],
-            "progress": 2,
-            "passedCount": 1,
-            "avg": 17
         }
     ],
     "players": [
@@ -437,6 +437,21 @@
             ],
             "progress": 1,
             "updated": "2026-10-19T06:06:00+03:00"
+        },
+        {
+            "key": "3Б|Лысо.Д|PC",
+            "klass": "3Б",
+            "nick": "Лысо.Д",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "updated": "2026-10-19T06:06:44+03:00"
         }
     ]
 }
