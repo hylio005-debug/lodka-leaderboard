@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T19:08:44+03:00",
+    "updated": "2026-10-19T19:47:16+03:00",
     "leaders": [
         {
             "klass": "7Б",
@@ -16,6 +16,22 @@
             "passedCount": 5,
             "avg": 97,
             "score": 97.4
+        },
+        {
+            "klass": "—",
+            "nick": "123",
+            "device": "PC",
+            "levels": [
+                100,
+                100,
+                100,
+                92,
+                90
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 96,
+            "score": 96.4
         },
         {
             "klass": "7Б",
@@ -48,22 +64,6 @@
             "passedCount": 5,
             "avg": 96,
             "score": 95.8
-        },
-        {
-            "klass": "—",
-            "nick": "123",
-            "device": "PC",
-            "levels": [
-                100,
-                92,
-                100,
-                92,
-                90
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 95,
-            "score": 94.8
         },
         {
             "klass": "4Б",
@@ -170,16 +170,16 @@
             "device": "PC",
             "levels": [
                 100,
-                92,
+                100,
                 100,
                 92,
                 90
             ],
             "progress": 5,
-            "updated": "2026-10-19T19:08:44+03:00",
+            "updated": "2026-10-19T19:47:16+03:00",
             "inventory": {
                 "map": false,
-                "winch": false,
+                "winch": true,
                 "flashlight": false,
                 "torpedo": true
             }
