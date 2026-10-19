@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-19T09:29:36+03:00",
+    "updated": "2026-10-19T09:29:49+03:00",
     "leaders": [
         {
             "klass": "7Б",
@@ -77,6 +77,21 @@
             "avg": 90.6
         },
         {
+            "klass": "7Б",
+            "nick": "Сапо.И",
+            "device": "Mobile",
+            "levels": [
+                89,
+                84,
+                100,
+                88,
+                83
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 88.8
+        },
+        {
             "klass": "4А",
             "nick": "Хайр.У",
             "device": "Mobile",
@@ -120,21 +135,6 @@
             "progress": 5,
             "passedCount": 5,
             "avg": 87.6
-        },
-        {
-            "klass": "7Б",
-            "nick": "Сапо.И",
-            "device": "Mobile",
-            "levels": [
-                89,
-                84,
-                100,
-                88,
-                0
-            ],
-            "progress": 5,
-            "passedCount": 4,
-            "avg": 72.2
         },
         {
             "klass": "4Б",
@@ -1378,10 +1378,10 @@
                 84,
                 100,
                 88,
-                0
+                83
             ],
             "progress": 5,
-            "updated": "2026-10-19T09:29:10+03:00"
+            "updated": "2026-10-19T09:29:49+03:00"
         },
         {
             "key": "7Б|Беля.С|PC",
