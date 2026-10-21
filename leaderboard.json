@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T18:45:08+03:00",
+    "updated": "2026-10-21T18:45:34+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2019,6 +2019,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-21T18:45:08+03:00"
+        },
+        {
+            "key": "—|LeBron Jame|PC",
+            "klass": "—",
+            "nick": "LeBron Jame",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T18:45:34+03:00"
         }
     ]
 }
