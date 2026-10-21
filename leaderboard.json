@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T08:59:57+03:00",
+    "updated": "2026-10-21T09:04:57+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -1866,6 +1866,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-21T08:58:47+03:00"
+        },
+        {
+            "key": "8А|Фрол.М|PC",
+            "klass": "8А",
+            "nick": "Фрол.М",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T09:04:57+03:00"
         }
     ]
 }
