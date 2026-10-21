@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T13:54:50+03:00",
+    "updated": "2026-10-21T14:02:41+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -146,20 +146,20 @@
             "score": 90.6
         },
         {
-            "klass": "7Б",
-            "nick": "Сапо.И",
+            "klass": "3Б",
+            "nick": "Зари.К",
             "device": "Mobile",
             "levels": [
-                89,
-                84,
+                87,
+                93,
                 100,
                 88,
-                83
+                79
             ],
             "progress": 5,
             "passedCount": 5,
             "avg": 89,
-            "score": 88.8
+            "score": 89.4
         }
     ],
     "players": [
@@ -500,10 +500,10 @@
                 93,
                 100,
                 88,
-                0
+                79
             ],
             "progress": 5,
-            "updated": "2026-10-21T13:54:50+03:00",
+            "updated": "2026-10-21T14:02:41+03:00",
             "inventory": {
                 "map": true,
                 "winch": true,
