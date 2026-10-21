@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-20T20:15:03+03:00",
+    "updated": "2026-10-21T03:42:09+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -1593,6 +1593,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-20T15:31:36+03:00"
+        },
+        {
+            "key": "8А|Шипи.М|Mobile",
+            "klass": "8А",
+            "nick": "Шипи.М",
+            "device": "Mobile",
+            "levels": [
+                88,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T03:42:09+03:00"
         }
     ]
 }
