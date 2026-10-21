@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T17:15:10+03:00",
+    "updated": "2026-10-21T17:21:18+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -32,6 +32,22 @@
             "passedCount": 5,
             "avg": 99,
             "score": 98.6
+        },
+        {
+            "klass": "—",
+            "nick": "Legenda8",
+            "device": "PC",
+            "levels": [
+                100,
+                100,
+                90,
+                100,
+                100
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 98,
+            "score": 98
         },
         {
             "klass": "7Б",
@@ -144,22 +160,6 @@
             "passedCount": 5,
             "avg": 93,
             "score": 93.2
-        },
-        {
-            "klass": "6Б",
-            "nick": "Ложк.И",
-            "device": "PC",
-            "levels": [
-                100,
-                90,
-                100,
-                80,
-                91
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 92,
-            "score": 92.2
         }
     ],
     "players": [
@@ -1988,7 +1988,7 @@
                 100,
                 90,
                 100,
-                0
+                100
             ],
             "progress": 5,
             "inventory": {
@@ -1997,7 +1997,7 @@
                 "flashlight": true,
                 "torpedo": true
             },
-            "updated": "2026-10-21T17:15:10+03:00"
+            "updated": "2026-10-21T17:21:18+03:00"
         }
     ]
 }
