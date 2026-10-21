@@ -1,9 +1,25 @@
 {
-    "updated": "2026-10-21T19:14:40+03:00",
+    "updated": "2026-10-21T19:16:42+03:00",
     "leaders": [
         {
             "klass": "5Б",
             "nick": "Корч.Д",
+            "device": "PC",
+            "levels": [
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 100,
+            "score": 100
+        },
+        {
+            "klass": "—",
+            "nick": "леброн",
             "device": "PC",
             "levels": [
                 100,
@@ -144,22 +160,6 @@
             "passedCount": 5,
             "avg": 96,
             "score": 96
-        },
-        {
-            "klass": "7Б",
-            "nick": "Кара.П",
-            "device": "PC",
-            "levels": [
-                100,
-                100,
-                91,
-                98,
-                90
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 96,
-            "score": 95.8
         }
     ],
     "players": [
@@ -2093,7 +2093,7 @@
                 100,
                 100,
                 100,
-                0
+                100
             ],
             "progress": 5,
             "inventory": {
@@ -2102,7 +2102,7 @@
                 "flashlight": true,
                 "torpedo": true
             },
-            "updated": "2026-10-21T19:14:40+03:00"
+            "updated": "2026-10-21T19:16:42+03:00"
         }
     ]
 }
