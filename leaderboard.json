@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T18:58:37+03:00",
+    "updated": "2026-10-21T18:59:59+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2061,6 +2061,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-21T18:57:02+03:00"
+        },
+        {
+            "key": "—|анатолий|PC",
+            "klass": "—",
+            "nick": "анатолий",
+            "device": "PC",
+            "levels": [
+                90,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T18:59:59+03:00"
         }
     ]
 }
