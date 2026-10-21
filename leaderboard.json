@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T09:09:44+03:00",
+    "updated": "2026-10-21T12:38:25+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -496,14 +496,20 @@
             "nick": "Зари.К",
             "device": "Mobile",
             "levels": [
-                0,
+                87,
                 0,
                 0,
                 0,
                 0
             ],
-            "progress": 1,
-            "updated": "2026-10-19T06:07:02+03:00"
+            "progress": 2,
+            "updated": "2026-10-21T12:38:25+03:00",
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            }
         },
         {
             "key": "3Б|Зари.К|PC",
