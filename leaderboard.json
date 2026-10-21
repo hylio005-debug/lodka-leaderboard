@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T04:22:45+03:00",
+    "updated": "2026-10-21T05:55:04+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -1635,6 +1635,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-21T04:22:45+03:00"
+        },
+        {
+            "key": "—|LeBron James|Mobile",
+            "klass": "—",
+            "nick": "LeBron James",
+            "device": "Mobile",
+            "levels": [
+                55,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "inventory": {
+                "map": false,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T05:55:04+03:00"
         }
     ]
 }
