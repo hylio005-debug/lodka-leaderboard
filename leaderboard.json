@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T14:32:32+03:00",
+    "updated": "2026-10-21T16:36:57+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -1893,6 +1893,27 @@
                 "torpedo": true
             },
             "updated": "2026-10-21T09:09:44+03:00"
+        },
+        {
+            "key": "—|Legenda|Mobile",
+            "klass": "—",
+            "nick": "Legenda",
+            "device": "Mobile",
+            "levels": [
+                99,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T16:36:57+03:00"
         }
     ]
 }
