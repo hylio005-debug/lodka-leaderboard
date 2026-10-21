@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T19:10:38+03:00",
+    "updated": "2026-10-21T19:11:38+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2082,6 +2082,27 @@
                 "torpedo": true
             },
             "updated": "2026-10-21T19:10:38+03:00"
+        },
+        {
+            "key": "—|леброн|PC",
+            "klass": "—",
+            "nick": "леброн",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T19:11:38+03:00"
         }
     ]
 }
