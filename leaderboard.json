@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T08:59:03+03:00",
+    "updated": "2026-10-21T08:59:51+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -114,6 +114,22 @@
             "score": 93.2
         },
         {
+            "klass": "6Б",
+            "nick": "Ложк.И",
+            "device": "PC",
+            "levels": [
+                100,
+                90,
+                100,
+                80,
+                91
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 92,
+            "score": 92.2
+        },
+        {
             "klass": "4А",
             "nick": "Леон.К",
             "device": "PC",
@@ -128,22 +144,6 @@
             "passedCount": 5,
             "avg": 91,
             "score": 90.6
-        },
-        {
-            "klass": "6Б",
-            "nick": "Ложк.И",
-            "device": "PC",
-            "levels": [
-                100,
-                80,
-                100,
-                80,
-                91
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 90,
-            "score": 90.2
         },
         {
             "klass": "7Б",
@@ -1664,7 +1664,7 @@
             "device": "PC",
             "levels": [
                 100,
-                80,
+                90,
                 100,
                 80,
                 91
@@ -1676,7 +1676,7 @@
                 "flashlight": true,
                 "torpedo": true
             },
-            "updated": "2026-10-21T08:59:03+03:00"
+            "updated": "2026-10-21T08:59:51+03:00"
         },
         {
             "key": "6Б|Степ.А|PC",
