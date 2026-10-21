@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T16:54:32+03:00",
+    "updated": "2026-10-21T16:57:14+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -1956,6 +1956,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-21T16:54:32+03:00"
+        },
+        {
+            "key": "6Б|Стро.А|Mobile",
+            "klass": "6Б",
+            "nick": "Стро.А",
+            "device": "Mobile",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T16:57:14+03:00"
         }
     ]
 }
