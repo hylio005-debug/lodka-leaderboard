@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T08:57:17+03:00",
+    "updated": "2026-10-21T08:57:52+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -130,6 +130,22 @@
             "score": 90.6
         },
         {
+            "klass": "6Б",
+            "nick": "Ложк.И",
+            "device": "PC",
+            "levels": [
+                100,
+                80,
+                100,
+                80,
+                91
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 90,
+            "score": 90.2
+        },
+        {
             "klass": "7Б",
             "nick": "Сапо.И",
             "device": "Mobile",
@@ -144,22 +160,6 @@
             "passedCount": 5,
             "avg": 89,
             "score": 88.8
-        },
-        {
-            "klass": "6Б",
-            "nick": "Ложк.И",
-            "device": "PC",
-            "levels": [
-                100,
-                80,
-                100,
-                80,
-                83
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 89,
-            "score": 88.6
         }
     ],
     "players": [
@@ -1667,7 +1667,7 @@
                 80,
                 100,
                 80,
-                83
+                91
             ],
             "progress": 5,
             "inventory": {
@@ -1676,7 +1676,7 @@
                 "flashlight": true,
                 "torpedo": true
             },
-            "updated": "2026-10-21T08:53:55+03:00"
+            "updated": "2026-10-21T08:57:52+03:00"
         },
         {
             "key": "6Б|Степ.А|PC",
