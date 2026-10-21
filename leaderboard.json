@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T08:53:59+03:00",
+    "updated": "2026-10-21T08:54:16+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -1761,6 +1761,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-21T08:53:59+03:00"
+        },
+        {
+            "key": "6Б|Юрга.Г|PC",
+            "klass": "6Б",
+            "nick": "Юрга.Г",
+            "device": "PC",
+            "levels": [
+                64,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "inventory": {
+                "map": false,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T08:54:16+03:00"
         }
     ]
 }
