@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T17:09:55+03:00",
+    "updated": "2026-10-21T17:11:24+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -1977,6 +1977,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-21T16:57:14+03:00"
+        },
+        {
+            "key": "—|Legenda8|PC",
+            "klass": "—",
+            "nick": "Legenda8",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T17:11:24+03:00"
         }
     ]
 }
