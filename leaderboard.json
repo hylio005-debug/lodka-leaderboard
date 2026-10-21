@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T19:05:15+03:00",
+    "updated": "2026-10-21T19:05:25+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2048,19 +2048,19 @@
             "device": "PC",
             "levels": [
                 100,
-                64,
+                100,
                 0,
                 0,
                 0
             ],
-            "progress": 2,
+            "progress": 3,
             "inventory": {
                 "map": true,
-                "winch": false,
+                "winch": true,
                 "flashlight": false,
                 "torpedo": false
             },
-            "updated": "2026-10-21T18:57:02+03:00"
+            "updated": "2026-10-21T19:05:25+03:00"
         },
         {
             "key": "—|анатолий|PC",
