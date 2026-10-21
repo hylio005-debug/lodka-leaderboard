@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T16:39:09+03:00",
+    "updated": "2026-10-21T16:41:13+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -1914,6 +1914,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-21T16:39:09+03:00"
+        },
+        {
+            "key": "8Б|Бере.Г|Mobile",
+            "klass": "8Б",
+            "nick": "Бере.Г",
+            "device": "Mobile",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T16:41:13+03:00"
         }
     ]
 }
