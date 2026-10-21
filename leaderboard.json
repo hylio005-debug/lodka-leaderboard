@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T18:50:57+03:00",
+    "updated": "2026-10-21T18:51:11+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2040,6 +2040,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-21T18:50:57+03:00"
+        },
+        {
+            "key": "—|Rvёm_v_tuza|PC",
+            "klass": "—",
+            "nick": "Rvёm_v_tuza",
+            "device": "PC",
+            "levels": [
+                60,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "inventory": {
+                "map": false,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T18:51:11+03:00"
         }
     ]
 }
