@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T03:42:09+03:00",
+    "updated": "2026-10-21T04:21:29+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -1614,6 +1614,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-21T03:42:09+03:00"
+        },
+        {
+            "key": "—|5opka|Mobile",
+            "klass": "—",
+            "nick": "5opka",
+            "device": "Mobile",
+            "levels": [
+                96,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-21T04:21:29+03:00"
         }
     ]
 }
