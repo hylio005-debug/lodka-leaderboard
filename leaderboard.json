@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-21T19:17:56+03:00",
+    "updated": "2026-10-21T19:18:57+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2111,19 +2111,19 @@
             "device": "PC",
             "levels": [
                 100,
-                0,
+                90,
                 0,
                 0,
                 0
             ],
-            "progress": 2,
+            "progress": 3,
             "inventory": {
                 "map": true,
-                "winch": false,
+                "winch": true,
                 "flashlight": false,
                 "torpedo": false
             },
-            "updated": "2026-10-21T19:17:56+03:00"
+            "updated": "2026-10-21T19:18:57+03:00"
         }
     ]
 }
