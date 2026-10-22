@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-22T08:33:09+03:00",
+    "updated": "2026-10-22T08:34:02+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2236,20 +2236,20 @@
             "nick": "Доро.И",
             "device": "Mobile",
             "levels": [
-                45,
+                90,
                 0,
                 0,
                 0,
                 0
             ],
-            "progress": 1,
+            "progress": 2,
             "inventory": {
-                "map": false,
+                "map": true,
                 "winch": false,
                 "flashlight": false,
                 "torpedo": false
             },
-            "updated": "2026-10-22T08:33:09+03:00"
+            "updated": "2026-10-22T08:34:02+03:00"
         }
     ]
 }
