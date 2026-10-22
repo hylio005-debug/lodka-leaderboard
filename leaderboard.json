@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-22T13:43:42+03:00",
+    "updated": "2026-10-22T13:45:16+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -1594,11 +1594,11 @@
             "progress": 5,
             "inventory": {
                 "map": true,
-                "winch": false,
+                "winch": true,
                 "flashlight": false,
                 "torpedo": false
             },
-            "updated": "2026-10-22T13:43:42+03:00"
+            "updated": "2026-10-22T13:45:16+03:00"
         },
         {
             "key": "8А|Шипи.М|Mobile",
