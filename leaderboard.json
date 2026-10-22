@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-22T06:10:02+03:00",
+    "updated": "2026-10-22T06:11:58+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2187,6 +2187,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-22T06:10:02+03:00"
+        },
+        {
+            "key": "—|На ну дороги|Mobile",
+            "klass": "—",
+            "nick": "На ну дороги",
+            "device": "Mobile",
+            "levels": [
+                91,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-22T06:11:58+03:00"
         }
     ]
 }
