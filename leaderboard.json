@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-23T18:26:27+03:00",
+    "updated": "2026-10-23T18:54:06+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -83,6 +83,22 @@
         },
         {
             "klass": "—",
+            "nick": "123",
+            "device": "PC",
+            "levels": [
+                100,
+                100,
+                100,
+                92,
+                100
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 98,
+            "score": 98.4
+        },
+        {
+            "klass": "—",
             "nick": "Legenda8",
             "device": "PC",
             "levels": [
@@ -144,22 +160,6 @@
             "passedCount": 5,
             "avg": 97,
             "score": 97.4
-        },
-        {
-            "klass": "—",
-            "nick": "123",
-            "device": "PC",
-            "levels": [
-                100,
-                100,
-                100,
-                92,
-                94
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 97,
-            "score": 97.2
         }
     ],
     "players": [
@@ -173,10 +173,10 @@
                 100,
                 100,
                 92,
-                94
+                100
             ],
             "progress": 5,
-            "updated": "2026-10-22T17:26:22+03:00",
+            "updated": "2026-10-23T18:54:06+03:00",
             "inventory": {
                 "map": true,
                 "winch": true,
