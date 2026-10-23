@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-23T05:39:57+03:00",
+    "updated": "2026-10-23T07:48:31+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2376,6 +2376,27 @@
                 "torpedo": true
             },
             "updated": "2026-10-23T05:39:40+03:00"
+        },
+        {
+            "key": "7А|Митя.В|PC",
+            "klass": "7А",
+            "nick": "Митя.В",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-23T07:48:31+03:00"
         }
     ]
 }
