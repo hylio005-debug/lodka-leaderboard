@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-23T08:06:12+03:00",
+    "updated": "2026-10-23T08:34:02+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2439,6 +2439,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-23T08:06:12+03:00"
+        },
+        {
+            "key": "—|TURBO_42|Mobile",
+            "klass": "—",
+            "nick": "TURBO_42",
+            "device": "Mobile",
+            "levels": [
+                60,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "inventory": {
+                "map": false,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-23T08:34:02+03:00"
         }
     ]
 }
