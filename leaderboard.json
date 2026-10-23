@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-23T05:14:19+03:00",
+    "updated": "2026-10-23T05:14:42+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2322,18 +2322,18 @@
             "levels": [
                 100,
                 89,
-                75,
+                100,
                 0,
                 0
             ],
-            "progress": 3,
+            "progress": 4,
             "inventory": {
                 "map": true,
                 "winch": true,
-                "flashlight": false,
+                "flashlight": true,
                 "torpedo": false
             },
-            "updated": "2026-10-23T05:13:49+03:00"
+            "updated": "2026-10-23T05:14:42+03:00"
         },
         {
             "key": "8Б|Ново.В|PC",
