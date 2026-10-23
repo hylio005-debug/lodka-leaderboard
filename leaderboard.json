@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-23T07:51:58+03:00",
+    "updated": "2026-10-23T07:52:02+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2385,18 +2385,18 @@
             "levels": [
                 100,
                 100,
-                0,
+                100,
                 0,
                 0
             ],
-            "progress": 3,
+            "progress": 4,
             "inventory": {
                 "map": true,
                 "winch": true,
-                "flashlight": false,
+                "flashlight": true,
                 "torpedo": false
             },
-            "updated": "2026-10-23T07:50:53+03:00"
+            "updated": "2026-10-23T07:52:02+03:00"
         },
         {
             "key": "7А|Прит.М|PC",
