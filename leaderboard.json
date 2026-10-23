@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-23T05:29:48+03:00",
+    "updated": "2026-10-23T05:30:26+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -32,6 +32,22 @@
             "passedCount": 5,
             "avg": 100,
             "score": 100
+        },
+        {
+            "klass": "8Б",
+            "nick": "Жура.А",
+            "device": "PC",
+            "levels": [
+                100,
+                100,
+                100,
+                100,
+                99
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 100,
+            "score": 99.8
         },
         {
             "klass": "—",
@@ -144,22 +160,6 @@
             "passedCount": 5,
             "avg": 97,
             "score": 97.2
-        },
-        {
-            "klass": "7Б",
-            "nick": "Близ.Д",
-            "device": "PC",
-            "levels": [
-                100,
-                98,
-                100,
-                91,
-                92
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 96,
-            "score": 96.2
         }
     ],
     "players": [
@@ -2282,7 +2282,7 @@
                 100,
                 100,
                 100,
-                0
+                99
             ],
             "progress": 5,
             "inventory": {
@@ -2291,7 +2291,7 @@
                 "flashlight": true,
                 "torpedo": true
             },
-            "updated": "2026-10-23T05:14:19+03:00"
+            "updated": "2026-10-23T05:30:26+03:00"
         },
         {
             "key": "8Б|Бала.А|PC",
