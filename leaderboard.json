@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-22T17:26:22+03:00",
+    "updated": "2026-10-23T05:08:26+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2271,6 +2271,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-22T09:57:19+03:00"
+        },
+        {
+            "key": "8Б|Жура.А|PC",
+            "klass": "8Б",
+            "nick": "Жура.А",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-23T05:08:26+03:00"
         }
     ]
 }
