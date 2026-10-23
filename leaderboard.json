@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-23T19:44:52+03:00",
+    "updated": "2026-10-23T19:46:15+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -205,16 +205,16 @@
             "nick": "123",
             "device": "Mobile",
             "levels": [
-                97,
+                100,
                 80,
                 90,
                 0,
                 0
             ],
             "progress": 4,
-            "updated": "2026-10-23T19:44:52+03:00",
+            "updated": "2026-10-23T19:46:15+03:00",
             "inventory": {
-                "map": false,
+                "map": true,
                 "winch": false,
                 "flashlight": true,
                 "torpedo": false
