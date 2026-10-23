@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-23T08:40:08+03:00",
+    "updated": "2026-10-23T10:11:04+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2447,19 +2447,19 @@
             "device": "Mobile",
             "levels": [
                 100,
-                42,
+                95,
                 0,
                 0,
                 0
             ],
-            "progress": 2,
+            "progress": 3,
             "inventory": {
                 "map": true,
-                "winch": false,
+                "winch": true,
                 "flashlight": false,
                 "torpedo": false
             },
-            "updated": "2026-10-23T08:40:01+03:00"
+            "updated": "2026-10-23T10:11:04+03:00"
         },
         {
             "key": "6А|Иван.Д|PC",
