@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-23T07:59:37+03:00",
+    "updated": "2026-10-23T08:01:31+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -50,6 +50,22 @@
             "score": 100
         },
         {
+            "klass": "7А",
+            "nick": "Митя.В",
+            "device": "PC",
+            "levels": [
+                100,
+                100,
+                100,
+                100,
+                96
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 99,
+            "score": 99.2
+        },
+        {
             "klass": "—",
             "nick": "Legenda",
             "device": "PC",
@@ -64,22 +80,6 @@
             "passedCount": 5,
             "avg": 99,
             "score": 98.6
-        },
-        {
-            "klass": "7А",
-            "nick": "Митя.В",
-            "device": "PC",
-            "levels": [
-                100,
-                100,
-                100,
-                100,
-                91
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 98,
-            "score": 98.2
         },
         {
             "klass": "—",
@@ -2387,7 +2387,7 @@
                 100,
                 100,
                 100,
-                91
+                96
             ],
             "progress": 5,
             "inventory": {
@@ -2396,7 +2396,7 @@
                 "flashlight": true,
                 "torpedo": true
             },
-            "updated": "2026-10-23T07:59:37+03:00"
+            "updated": "2026-10-23T08:01:31+03:00"
         },
         {
             "key": "7А|Прит.М|PC",
