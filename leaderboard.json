@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-23T05:30:26+03:00",
+    "updated": "2026-10-23T05:30:35+03:00",
     "leaders": [
         {
             "klass": "5Б",
@@ -2362,20 +2362,20 @@
             "nick": "Мель.М",
             "device": "PC",
             "levels": [
-                62,
+                100,
                 0,
                 0,
                 0,
                 0
             ],
-            "progress": 1,
+            "progress": 2,
             "inventory": {
-                "map": false,
+                "map": true,
                 "winch": false,
                 "flashlight": false,
                 "torpedo": false
             },
-            "updated": "2026-10-23T05:29:48+03:00"
+            "updated": "2026-10-23T05:30:35+03:00"
         }
     ]
 }
