@@ -1,6 +1,22 @@
 {
-    "updated": "2026-10-24T12:42:54+03:00",
+    "updated": "2026-10-24T12:43:28+03:00",
     "leaders": [
+        {
+            "klass": "—",
+            "nick": "123",
+            "device": "PC",
+            "levels": [
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 100,
+            "score": 100
+        },
         {
             "klass": "5Б",
             "nick": "Корч.Д",
@@ -83,22 +99,6 @@
         },
         {
             "klass": "—",
-            "nick": "123",
-            "device": "PC",
-            "levels": [
-                100,
-                100,
-                100,
-                92,
-                100
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 98,
-            "score": 98.4
-        },
-        {
-            "klass": "—",
             "nick": "Legenda8",
             "device": "PC",
             "levels": [
@@ -172,11 +172,11 @@
                 100,
                 100,
                 100,
-                92,
+                100,
                 100
             ],
             "progress": 5,
-            "updated": "2026-10-24T12:42:54+03:00",
+            "updated": "2026-10-24T12:43:28+03:00",
             "inventory": {
                 "map": true,
                 "winch": true,
