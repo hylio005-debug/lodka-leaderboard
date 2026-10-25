@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-24T18:41:27+03:00",
+    "updated": "2026-10-25T07:58:39+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -2571,6 +2571,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-24T18:41:27+03:00"
+        },
+        {
+            "key": "—|TURBO_42|PC",
+            "klass": "—",
+            "nick": "TURBO_42",
+            "device": "PC",
+            "levels": [
+                79,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 1,
+            "inventory": {
+                "map": false,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-25T07:58:39+03:00"
         }
     ]
 }
