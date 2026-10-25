@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-25T08:02:00+03:00",
+    "updated": "2026-10-25T08:02:53+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -2580,18 +2580,18 @@
             "levels": [
                 100,
                 100,
-                0,
+                100,
                 0,
                 0
             ],
-            "progress": 3,
+            "progress": 4,
             "inventory": {
                 "map": true,
                 "winch": true,
-                "flashlight": false,
+                "flashlight": true,
                 "torpedo": false
             },
-            "updated": "2026-10-25T08:02:00+03:00"
+            "updated": "2026-10-25T08:02:53+03:00"
         }
     ]
 }
