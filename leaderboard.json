@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-26T05:36:18+03:00",
+    "updated": "2026-10-26T05:39:07+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -2621,19 +2621,19 @@
             "device": "Mobile",
             "levels": [
                 100,
-                74,
+                81,
                 0,
                 0,
                 0
             ],
-            "progress": 2,
+            "progress": 3,
             "inventory": {
                 "map": true,
-                "winch": false,
+                "winch": true,
                 "flashlight": false,
                 "torpedo": false
             },
-            "updated": "2026-10-26T05:36:18+03:00"
+            "updated": "2026-10-26T05:39:07+03:00"
         }
     ]
 }
