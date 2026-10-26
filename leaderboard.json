@@ -1,5 +1,5 @@
 {
-    "updated": "2026-10-25T14:14:13+03:00",
+    "updated": "2026-10-26T05:34:39+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -2613,6 +2613,27 @@
                 "torpedo": false
             },
             "updated": "2026-10-25T14:14:13+03:00"
+        },
+        {
+            "key": "9Б|Арта.Е|Mobile",
+            "klass": "9Б",
+            "nick": "Арта.Е",
+            "device": "Mobile",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-10-26T05:34:39+03:00"
         }
     ]
 }
