@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-01T12:43:50+03:00",
+    "updated": "2026-11-05T06:18:38+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -2473,20 +2473,20 @@
             "nick": "Иван.Д",
             "device": "PC",
             "levels": [
-                0,
+                100,
                 0,
                 0,
                 0,
                 0
             ],
-            "progress": 1,
+            "progress": 2,
             "inventory": {
-                "map": false,
+                "map": true,
                 "winch": false,
                 "flashlight": false,
                 "torpedo": false
             },
-            "updated": "2026-10-23T08:40:08+03:00"
+            "updated": "2026-11-05T06:18:38+03:00"
         },
         {
             "key": "7А|Шипи.М|Mobile",
