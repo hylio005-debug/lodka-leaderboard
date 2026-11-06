@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-06T04:36:56+03:00",
+    "updated": "2026-11-06T06:26:24+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -2655,6 +2655,27 @@
                 "torpedo": true
             },
             "updated": "2026-10-31T10:26:30+03:00"
+        },
+        {
+            "key": "8А|Спир.Е|PC",
+            "klass": "8А",
+            "nick": "Спир.Е",
+            "device": "PC",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-11-06T06:26:24+03:00"
         }
     ]
 }
