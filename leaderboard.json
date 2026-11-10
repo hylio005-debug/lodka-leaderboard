@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-10T13:12:25+03:00",
+    "updated": "2026-11-10T13:13:35+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -2684,19 +2684,19 @@
             "device": "PC",
             "levels": [
                 92,
-                78,
+                84,
                 0,
                 0,
                 0
             ],
-            "progress": 2,
+            "progress": 3,
             "inventory": {
                 "map": true,
-                "winch": false,
+                "winch": true,
                 "flashlight": false,
                 "torpedo": false
             },
-            "updated": "2026-11-10T13:12:25+03:00"
+            "updated": "2026-11-10T13:13:35+03:00"
         },
         {
             "key": "4А|Хохл.Е|Mobile",
