@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-10T06:07:33+03:00",
+    "updated": "2026-11-10T06:08:50+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -2704,20 +2704,20 @@
             "nick": "Хохл.Е",
             "device": "Mobile",
             "levels": [
-                75,
+                97,
                 0,
                 0,
                 0,
                 0
             ],
-            "progress": 1,
+            "progress": 2,
             "inventory": {
-                "map": false,
+                "map": true,
                 "winch": false,
                 "flashlight": false,
                 "torpedo": false
             },
-            "updated": "2026-11-10T06:07:33+03:00"
+            "updated": "2026-11-10T06:08:50+03:00"
         }
     ]
 }
