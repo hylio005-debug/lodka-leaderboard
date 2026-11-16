@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-13T07:29:52+03:00",
+    "updated": "2026-11-16T07:18:20+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -654,12 +654,18 @@
             "levels": [
                 82,
                 83,
-                0,
+                90,
                 0,
                 0
             ],
-            "progress": 3,
-            "updated": "2026-10-19T07:19:36+03:00"
+            "progress": 4,
+            "updated": "2026-11-16T07:18:20+03:00",
+            "inventory": {
+                "map": false,
+                "winch": false,
+                "flashlight": true,
+                "torpedo": false
+            }
         },
         {
             "key": "4Б|Шехо.М|PC",
