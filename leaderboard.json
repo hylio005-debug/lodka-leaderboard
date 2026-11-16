@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-16T07:48:14+03:00",
+    "updated": "2026-11-16T08:06:15+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -814,14 +814,20 @@
             "nick": "Леон.К",
             "device": "PC",
             "levels": [
-                80,
+                100,
                 81,
                 92,
                 100,
                 100
             ],
             "progress": 5,
-            "updated": "2026-10-19T08:05:55+03:00"
+            "updated": "2026-11-16T08:06:15+03:00",
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            }
         },
         {
             "key": "4А|Ново.М|PC",
