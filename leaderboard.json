@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-17T08:09:26+03:00",
+    "updated": "2026-11-17T12:02:07+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -2826,6 +2826,27 @@
                 "torpedo": false
             },
             "updated": "2026-11-17T08:05:01+03:00"
+        },
+        {
+            "key": "—|the forge|Mobile",
+            "klass": "—",
+            "nick": "the forge",
+            "device": "Mobile",
+            "levels": [
+                100,
+                0,
+                0,
+                0,
+                0
+            ],
+            "progress": 2,
+            "inventory": {
+                "map": true,
+                "winch": false,
+                "flashlight": false,
+                "torpedo": false
+            },
+            "updated": "2026-11-17T12:02:07+03:00"
         }
     ]
 }
