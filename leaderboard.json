@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-17T12:05:50+03:00",
+    "updated": "2026-11-17T12:08:49+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -130,6 +130,22 @@
             "score": 98
         },
         {
+            "klass": "—",
+            "nick": "the forge",
+            "device": "Mobile",
+            "levels": [
+                100,
+                100,
+                100,
+                100,
+                90
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 98,
+            "score": 98
+        },
+        {
             "klass": "7Б",
             "nick": "Чула.В",
             "device": "PC",
@@ -139,22 +155,6 @@
                 100,
                 91,
                 100
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 97,
-            "score": 97.4
-        },
-        {
-            "klass": "—",
-            "nick": "арткоро",
-            "device": "PC",
-            "levels": [
-                100,
-                92,
-                100,
-                100,
-                95
             ],
             "progress": 5,
             "passedCount": 5,
@@ -2837,7 +2837,7 @@
                 100,
                 100,
                 100,
-                0
+                90
             ],
             "progress": 5,
             "inventory": {
@@ -2846,7 +2846,7 @@
                 "flashlight": true,
                 "torpedo": true
             },
-            "updated": "2026-11-17T12:05:50+03:00"
+            "updated": "2026-11-17T12:08:49+03:00"
         }
     ]
 }
