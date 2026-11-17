@@ -1,5 +1,5 @@
 {
-    "updated": "2026-11-17T12:08:49+03:00",
+    "updated": "2026-11-17T12:20:11+03:00",
     "leaders": [
         {
             "klass": "—",
@@ -83,6 +83,22 @@
         },
         {
             "klass": "—",
+            "nick": "the forge",
+            "device": "Mobile",
+            "levels": [
+                100,
+                100,
+                100,
+                100,
+                96
+            ],
+            "progress": 5,
+            "passedCount": 5,
+            "avg": 99,
+            "score": 99.2
+        },
+        {
+            "klass": "—",
             "nick": "Legenda",
             "device": "PC",
             "levels": [
@@ -123,22 +139,6 @@
                 100,
                 100,
                 100
-            ],
-            "progress": 5,
-            "passedCount": 5,
-            "avg": 98,
-            "score": 98
-        },
-        {
-            "klass": "—",
-            "nick": "the forge",
-            "device": "Mobile",
-            "levels": [
-                100,
-                100,
-                100,
-                100,
-                90
             ],
             "progress": 5,
             "passedCount": 5,
@@ -2837,7 +2837,7 @@
                 100,
                 100,
                 100,
-                90
+                96
             ],
             "progress": 5,
             "inventory": {
@@ -2846,7 +2846,7 @@
                 "flashlight": true,
                 "torpedo": true
             },
-            "updated": "2026-11-17T12:08:49+03:00"
+            "updated": "2026-11-17T12:20:11+03:00"
         }
     ]
 }
